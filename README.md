@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashwant Kumar
-- 👀 I’m interested in Java, Data Structure & Algorithms and Flutter.
-- 🌱 I’m currently learning Spring Boot and Design Pattern.
-- 💞️ I’m looking to collaborate on Flutter and Java.
+- 👀 I’m interested in Java, c#, Data Structure & Algorithms and Flutter.
+- 🌱 I’m currently working as Product Developer.
+- 💞️ I’m looking to collaborate on Flutter and C# Framework.
 - 📫 How to reach me : imyash109@gmail.com
 
 <!---
