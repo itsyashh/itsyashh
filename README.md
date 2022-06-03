@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashwant Kumar
-- 👀 I’m interested in Java, c#, Data Structure & Algorithms and Flutter.
-- 🌱 I’m currently working as Product Developer.
-- 💞️ I’m looking to collaborate on Flutter and C# Framework.
+- 👀 I’m ready to discuss and collaborate on Angular, Flutter, .Net Frameworks.
+- 🌱 Currently working as Product Developer in Startup.
+- 💞️ Also doing Data Stucture and Algorithms on Leetcode.
 - 📫 How to reach me : imyash109@gmail.com
 
 <!---
