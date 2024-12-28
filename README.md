@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yashwant Kumar
-- 👀 I’m ready to discuss and collaborate on Angular, Flutter, .Net Frameworks.
-- 🌱 Currently working as Product Developer in Startup.
+- 👀 I’m ready to discuss and collaborate on .Net core, Angular, SQL, Flutter.
+- 🌱 Currently working as Software Engineer.
 - 💞️ Also doing Data Stucture and Algorithms on Leetcode.
 - 📫 How to reach me : imyash109@gmail.com
 
